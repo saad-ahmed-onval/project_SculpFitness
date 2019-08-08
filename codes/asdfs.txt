@@ -1,1 +1,4 @@
-adfsdadsfddsv
+the app.js files contain otp generation+otp storage in db+ module.
+verify.js contains otp generation code.
+
+time.js file contains the login log code. use it at onclick in login form!
